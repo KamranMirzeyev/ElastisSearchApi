@@ -1,0 +1,12 @@
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\bin\Debug\netstandard2.0\Services.deps.json
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\bin\Debug\netstandard2.0\Services.dll
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\bin\Debug\netstandard2.0\Services.pdb
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\obj\Debug\netstandard2.0\Services.csproj.CopyComplete
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\obj\Debug\netstandard2.0\Services.dll
+C:\Users\Kamran\Desktop\elasticsearch\src\Services\obj\Debug\netstandard2.0\Services.pdb
